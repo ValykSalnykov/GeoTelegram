@@ -1,5 +1,0 @@
-{
-  "name": "GeoTelegram",
-  "description": "Extracts addresses from Telegram channel messages and displays them on a map.",
-  "requestFramePermissions": []
-}
